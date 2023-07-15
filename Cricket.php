@@ -22,15 +22,15 @@
             <span class="tooltiptext">Find out timings of the Events</span>
             </div>
             <div class="text-2">
-            <li><a href="#">Events</a></li>
-            <span class="tooltiptext">Find out what is happening</span>
+            <li><a href="#">Score</a></li>
+            <span class="tooltiptext">view match score</span>
             </div>
             <div class="text-3">
                 <li><a href="#">GuideLines</a></li>
                 <span class="tooltiptext">Find the rules and regulations</span>
             </div>
             <div class="text-3">
-            <li><a href="login.html">Login</a></li>
+            <li><a href="login.php">Login</a></li>
             <span class="tooltiptext">Login to register in events</span>
             </div>
         </ul>
@@ -44,8 +44,8 @@
                         <div class="btech">Outdoor Sport</div></h1>
                         <p class="lead">
                             Cricket is a thrill both to play the game and to watch it and its importance is no less than any sporting event. 
-                            Every boy in this country wants to become a cricketer due to the privileges this sport brings. 
-                            To fulfill the dreams of our children, Yuvraj Singh Cricket academy is making a start in MM University.
+                            Every boy and girl in this country wants to become a cricketer due to the privileges this sport brings. 
+                            To fulfill the dreams of our new generation Nec sports club gives this wonderful platform.
                         </p>
                     </div>
                 
@@ -66,16 +66,16 @@
                     </div>
                 </div>
             </div>
-            <div class="buttons">
+            <!-- <div class="buttons">
                 <button id="prev"><i class="fas fa-arrow-left"></i></button>
                 <button id="next"><i class="fas fa-arrow-right"></i></button>
-            </div>
+            </div> -->
 
-            <div class="scrolldown">
+            <!-- <div class="scrolldown">
                 <span></span>
                 <span></span>
                 <span></span>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -93,10 +93,10 @@
                 <i class="far fa-id-badge fa-3x"></i>
                 <p class="hide-sm">Contact</p>
             </div>
-            <div id="tab-4" class="tab-item">
+            <!-- <div id="tab-4" class="tab-item">
                 <i class="fas fa-route fa-3x"></i>
                 <p class="hide-sm">Venue and Time</p>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -165,7 +165,7 @@
                     </p>
                 </div>
 
-                <table class="table">
+                <!-- <table class="table">
                     <thead>
                         <tr>
                             <th>Assigned Teacher</th>
@@ -195,7 +195,7 @@
                             <td>susru@mmumullana.org</td>
                         </tr>
                     </tbody>
-                </table>
+                </table> -->
             </div>
         </div>
 </section>
@@ -210,7 +210,7 @@
         <p>Email or call us to for any query</p>
         <p>
             Email:
-            <strong>MMDU@mmumullana.org</strong>
+            <strong>sportsclub@nec.edu.np</strong>
         </p>
       
         <div class="icons">
@@ -221,15 +221,15 @@
             <a href="https://www.facebook.com/">
                 <i class="fab fa-facebook fa-2x"></i>
             </a>
-            <a href="https://www.linkedin.com/feed/">
+            <!-- <a href="https://www.linkedin.com/feed/">
                 <i class="fab fa-linkedin fa-2x"></i>
-            </a>
-            <a href="https://www.linkedin.com/feed/">
+            </a> -->
+            <a href="https://www.youtube.com/feed/">
                 <i class="fab fa-youtube fa-2x"></i>
             </a>
             </div>
             <div class="para">
-            <p>@SEMS, 2020</p>
+            <p>@SEMS, 2023</p>
             </div>
     </footer>
     <script src="js/cricket.js"></script>
